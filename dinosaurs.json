@@ -1,0 +1,18 @@
+{
+	"dinosaurs": [{
+		"name": "Rex",
+		"type": "T-Rex",
+		"food": "Smaller dinosaur",
+		"url": "https://lh3.googleusercontent.com/jq1i1nFKtLmxQI70ss58AfAwZi0Ef44ie62bthVndVBeHrPL04Ea46560tm-Pdki7phe=w300"
+	}, {
+		"name": "Roger",
+		"type": "Pterodctyl",
+		"food": "Pizza's",
+		"url": "http://3.bp.blogspot.com/-mpx48XjhCcU/US3Xa9xkPaI/AAAAAAAAHdY/iK4v_I5dE5w/s1600/StudioFibonacci_Cartoon_Pterodactyl.png"
+	}, {
+		"name": "My EX",
+		"type": "Unknown",
+		"food": "Men's souls",
+		"url": "http://img14.deviantart.net/5450/i/2011/283/1/2/valkyrie_by_thebastardson-d4cf24f.jpg"
+	}]
+}
