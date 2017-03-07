@@ -1,7 +1,11 @@
-body {
+ body {
   background-color: lightslategrey;
+  height: 2000px;
 }
 
-nav .navbar {
-  background-color: darkslategrey;
+.navbar-default{
+  background-color: #222;
+  border: none;
+  border-radius:none;
+  color: #e9e9e9;
 }
